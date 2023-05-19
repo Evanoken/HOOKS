@@ -1,0 +1,12 @@
+.foot{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}

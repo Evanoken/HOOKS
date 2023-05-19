@@ -1,0 +1,44 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+    
+  .content {
+    width: 100%;
+    margin: 10px;
+  }
+  
+  .bio {
+    margin-bottom: 10px;
+  }
+  
+  .bio h2 {
+    font-size: 24px;
+    color: rgb(241, 239, 239);
+    margin-bottom: 10px;
+    background-color:rgb(29, 4, 4);
+    box-shadow: 1 2 -4px rgba(241, 235, 235, 0.6);
+    padding: 20px;
+  }
+  
+  .bio p {
+    line-height: 1.5;
+    color: white;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px;
+    color: #fffbfb;
+    font-size: 14px;
+  }
+  

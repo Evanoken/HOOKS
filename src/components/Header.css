@@ -1,0 +1,25 @@
+.head{
+    margin: 0;
+    padding: 10px;
+    position: static;
+    background-color: rgb(5, 3, 1);
+    height: 25px;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.navLink{
+    margin: 5px;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    text-decoration: none;
+}
